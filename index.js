@@ -25,5 +25,6 @@ document.addEventListener("keydown", function(e){
     }else{
         alert("Click the right key")
     }
+     }
     
- })
+ )
